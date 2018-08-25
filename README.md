@@ -1,3 +1,6 @@
+Super reliable app that I have been using for years - forked it here so you are aware and use it - cheers!
+===
+
 Maya Playblast app for Shotgun Toolkit
 ======================================
 
